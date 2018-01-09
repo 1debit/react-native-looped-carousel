@@ -380,12 +380,10 @@ const styles = StyleSheet.create({
     bottom: 20,
     left: 0,
     right: 0,
-    backgroundColor: 'transparent',
   },
   pageInfoContainer: {
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: 'transparent',
   },
   pageInfoPill: {
     width: 80,
@@ -403,7 +401,6 @@ const styles = StyleSheet.create({
     right: 0,
     bottom: 10,
     height: 30,
-    backgroundColor: 'transparent',
     alignItems: 'center',
     justifyContent: 'center',
     flexDirection: 'row',
@@ -414,7 +411,6 @@ const styles = StyleSheet.create({
     right: 0,
     bottom: 0,
     top: 0,
-    backgroundColor: 'transparent',
   },
   arrowsContainer: {
     flex: 1,
@@ -439,7 +435,6 @@ const styles = StyleSheet.create({
     width: 10,
     height: 10,
     borderRadius: 20,
-    backgroundColor: 'transparent',
     borderColor: 'white',
     borderWidth: 1,
   },
